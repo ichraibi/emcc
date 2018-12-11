@@ -4,7 +4,7 @@ Articles, cours et sources en relation avec le machine learning, l'IA, les scien
 
 ### Articles  
 
-1. La cognition ou qu'est ce que les sciences cognitives? , 2018 (à venir)
+1. [La cognition ou qu'est ce que les sciences cognitives? , 2018] (http://www.scilogs.fr/intelligence-mecanique/la-cognition-ou-quest-ce-que-les-sciences-cognitives/)
 2. [Reprenons les bases : Neurone artificiel, Neurone biologique, 2018](http://www.scilogs.fr/intelligence-mecanique/reprenons-bases-neurone-artificiel-neurone-biologique/)
 3. [Architecture des réseaux de neurones: que de choix! (1/3), 2018](http://www.scilogs.fr/intelligence-mecanique/architecture-reseaux-de-neurones-de-choix/)
 4. [Architecture des réseaux de neurones : Réseaux de neurones artificiels classiques (2/3) !, 2018](http://www.scilogs.fr/intelligence-mecanique/architecture-des-reseaux-de-neurones-reseaux-de-neurones-artificiels-classiques-2-3/)
