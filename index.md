@@ -8,7 +8,7 @@ Articles, cours et sources en relation avec le machine learning, l'IA, les scien
 2. [Reprenons les bases : Neurone artificiel, Neurone biologique, 2018](http://www.scilogs.fr/intelligence-mecanique/reprenons-bases-neurone-artificiel-neurone-biologique/)
 3. [Architecture des réseaux de neurones: que de choix! (1/3), 2018](http://www.scilogs.fr/intelligence-mecanique/architecture-reseaux-de-neurones-de-choix/)
 4. [Architecture des réseaux de neurones : Réseaux de neurones artificiels classiques (2/3) !, 2018](http://www.scilogs.fr/intelligence-mecanique/architecture-des-reseaux-de-neurones-reseaux-de-neurones-artificiels-classiques-2-3/)
-5. [Architecture des réseaux de neurones : Les Neurones impulsionnels (3/3), 2018 ! (à venir)](http://www.scilogs.fr/intelligence-mecanique/architecture-des-reseaux-de-neurones-reseaux-de-neurones-impulsionnels-3-3/)
+5. [Architecture des réseaux de neurones : Les Neurones impulsionnels (3/3), 2018 !](http://www.scilogs.fr/intelligence-mecanique/architecture-des-reseaux-de-neurones-reseaux-de-neurones-impulsionnels-3-3/)
 
 
 ### Références  
