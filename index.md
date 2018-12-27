@@ -16,9 +16,6 @@ Articles de médiation, cours et sources en relation avec le machine learning, l
 2. ["Comment des réseaux de neurones analysent automatiquement des schémas électriques? Intervention à La grande jonction 2018, IA et Robotique humanoïde, Mars 2018](https://www.youtube.com/watch?v=J7oE7hMdMFU&list=PLm0po6BduHO9_BQCF2zxYorKFRMcCDyf1&index=2)
 3. [Ma thèse en 180 sec : Approche bio-inspirée pour une planification hiérarchique et modulaire : application au traçage de schémas techniques, Avril 2017](https://www.youtube.com/watch?v=kCJJq1zdsUM&list=PLm0po6BduHO9_BQCF2zxYorKFRMcCDyf1&index=4)
 
-
-### Références  
-
 ### Contact
 
 Pour plus d'information sur [ichraibi](http://www.scilogs.fr/intelligence-mecanique/author/ichraibik/)
