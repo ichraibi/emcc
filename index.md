@@ -1,6 +1,6 @@
 ## Bienvenu à EMCC
 
-Articles, cours et sources en relation avec le machine learning, l'IA, les sciences cognitives!
+Articles de médiation, cours et sources en relation avec le machine learning, l'IA, les sciences cognitives!
 
 ### Articles  
 
@@ -11,8 +11,14 @@ Articles, cours et sources en relation avec le machine learning, l'IA, les scien
 5. [Architecture des réseaux de neurones : Les Neurones impulsionnels (3/3), 2018 !](http://www.scilogs.fr/intelligence-mecanique/architecture-des-reseaux-de-neurones-reseaux-de-neurones-impulsionnels-3-3/)
 
 
-### Références  
+### Conférences et intervention de médiation
 
+1. [Des femmes dans l'Intelligence Artificielle, Intervention à la journée ELLE ACTIVE, Bordeaux, Septembre 2018](http://www.elle.fr/Elle-Active/Actualites/Conference-ELLE-Active-de-Bordeaux-on-y-etait-et-on-vous-raconte-3725057)
+2. ["Comment des réseaux de neurones analysent automatiquemnt des schémas électriques? Intervention à La grande jonction 2018, IA et Robotique humanoïde, Mars 2018](https://www.youtube.com/watch?v=J7oE7hMdMFU&list=PLm0po6BduHO9_BQCF2zxYorKFRMcCDyf1&index=2)
+3. [Ma thèse en 180 sec : Approche bio-inspirée pour une planification hiérarchique et modulaire : application au traçage de schémas techniques, Avril 2017](https://www.youtube.com/watch?v=kCJJq1zdsUM&list=PLm0po6BduHO9_BQCF2zxYorKFRMcCDyf1&index=4)
+
+
+### Références  
 
 ### Contact
 
